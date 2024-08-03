@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bidester.github.io/sitemap.html.gz
+Sitemap: https://bidester.github.io/app/sitemap.html.gz
+Sitemap: https://bidester.github.io/assets/sitemap.html.gz
+Sitemap: https://bidester.github.io/css/sitemap.html.gz
+Sitemap: https://bidester.github.io/includes/sitemap.html.gz
+Sitemap: https://bidester.github.io/item/sitemap.html.gz
+Sitemap: https://bidester.github.io/src/sitemap.html.gz
